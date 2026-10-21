@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Données & sorties d'entraînement (trop lourdes pour GitHub)
+yolo_dataset/
+runs/
+predictions/
+*.pt
+*.pth
+data/
